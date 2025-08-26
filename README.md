@@ -36,7 +36,7 @@ Interactive Dashboards
 📊 Dashboard Preview
 
 
-![Image]()
+![Image](https://github.com/snigdhasikdar90-arch/Madhav-E-Commerce-Sales-Data-Analysis-Dashboard/blob/main/Madhav%20sales%20data%20picture.png?raw=true)
 
 
 
@@ -51,3 +51,6 @@ Enhance customer experience by understanding preferred payment methods
 Plan marketing campaigns around seasonal demand trends
 
 Drive profitability by focusing on the most profitable sub-categories
+
+## Contact-
+  
