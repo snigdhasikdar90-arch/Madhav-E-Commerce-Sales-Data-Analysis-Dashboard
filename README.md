@@ -53,4 +53,4 @@ Plan marketing campaigns around seasonal demand trends
 Drive profitability by focusing on the most profitable sub-categories
 
 ## Contact-
-  
+  LINKEDIN- www.linkedin.com/in/snigdha-sikdar-85b391377
